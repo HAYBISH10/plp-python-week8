@@ -1,0 +1,24 @@
+PLP Python Final Project - Personal Mini-Toolkit
+
+1. Simple Calculator
+The calculator performs addition, subtraction, multiplication, and division based on numbers entered by the user.
+Concepts used: input, variables, conditionals, arithmetic, and f-strings.
+
+2. To-Do List
+The to-do list allows the user to add tasks, remove tasks, and view the current list of tasks.
+Concepts used: lists, append(), remove(), in, loops, conditionals, and f-strings.
+
+3. Number Guessing Game
+The guessing game asks the user to guess a secret number and gives hints until they guess correctly.
+Concepts used: while loop, conditionals, variables, input, and f-strings.
+
+Menu Text:
+
+========================================
+       PERSONAL MINI-TOOLKIT
+========================================
+1. Simple Calculator
+2. To-Do List
+3. Number Guessing Game
+4. Quit
+========================================
